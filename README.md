@@ -3,12 +3,14 @@
 ## 👾 Meet Azza - عزّة 
 Hey there! I'm **a soon-to-graduate Computer Systems Engineering student** with a serious passion for learning and building cool stuff.
 
+🔗[My CV](https://docs.google.com/document/d/1MfIqfVQwvUzfDt4XpDDQ-wxhk-6PM9wwx1an1gy6CP4/edit?tab=t.0)
+
 
 ## 🚀 What's keeping me busy?
 
 - 💻 Currently diving deep into **ASP.NET Core APIs** (yes, I'm obsessed!)
 - 🛠️ A Check out my learning playground: [Check it out here](https://github.com/AzzaEid/HMS)
-- 🎓 Working hard on my **graduation project** – wish me luck!
+- 🎓 Working hard on my **graduation project** – wish me luck!  [Check my repo]([https://github.com/AzzaEid/HMS](https://github.com/AzzaEid/Skill-Assessment-Platform)
 - 🧩 Trying (and sometimes struggling!) to stay consistent with solving problems – it's not easy 🌚
 - 🤫 I *do* have a LeetCode profile... but let’s keep that between us – still kinda empty, but hey, every pro was once a beginner! 🦦
 
