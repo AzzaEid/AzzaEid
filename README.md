@@ -4,9 +4,6 @@
 Hey there! I'm a recent **Computer Systems Engineering graduate** focusing on **back-end development**.  
 Currently exploring back-end technologies and strengthening my experience in building APIs and web applications.  
 
-🔗[My CV](https://docs.google.com/document/d/1MfIqfVQwvUzfDt4XpDDQ-wxhk-6PM9wwx1an1gy6CP4/edit?tab=t.0)
-
-
 ## 🚀 What's keeping me busy?
 
 - 💻 Learning and practicing **back-end development**.
